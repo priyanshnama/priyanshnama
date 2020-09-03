@@ -1,16 +1,31 @@
-# PRIYANSH NAMA
-Motivated Android Developer cum Python Web Scrapper with comprehensive knowledge of android operating systems, key features and issues arising therefrom. Passionate about developing and facilitating platforms compatible with operating system.
+<h1 align="center">Hi 👋, I'm Priyansh Nama</h1>
+<h3 align="center">Full Stack Developer and Python Web-Scrapper</h3>
 
-## 1. Chief Technical Advisor at All India legal forum.
-Advised for the overarching technology infrastructure that
-closely aligns with the goals of the organization.
-keeps them updated with new tools they could use
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshnama" alt="priyanshnama" /> </p>
 
-## 2. Android developer
-Made a host of apps including calculators, sound player, secret-
-messaging apps, and many others.
-Currently Working on Android app for Jagrati, Whatsapp Clone and others.
+- 🔭 I’m currently working on [Technical-Fest](https://github.com/IIITDMJ-OPEN-SOURCE/Technical-Fest)
 
-## 3. Python web scraping
-Made a bunch of Tinder-Swiping and Instagram bots for amusement.
-Created Referral Code Generator for the annual fest of college 'INVICTA'. 
+- 🌱 I’m currently learning **Android**
+
+- 👯 I’m looking to collaborate on [Amahi](https://github.com/amahi/android)
+
+- 🤝 I’m looking for help with [Jagrati](https://github.com/IIITDMJ-OPEN-SOURCE/Jagrati)
+
+- 👨‍💻 All of my projects are available at [https://github.com/priyanshnama](https://github.com/priyanshnama)
+
+- 💬 Ask me about **Python, Java**
+
+- 📫 How to reach me **priyanshnama@gmail.com**
+
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshnama&layout=compact&hide=html" alt="priyanshnama" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshnama&show_icons=true" alt="priyanshnama" /></p>
+
+<p align="center">
+<a href="https://dev.to/priyanshnama" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="priyanshnama" height="30" width="30" /></a>
+<a href="https://twitter.com/priyanshnama" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="priyanshnama" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/priyanshnama" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="priyanshnama" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/priyansh-nama" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="priyansh-nama" height="30" width="30" /></a>
+<a href="https://fb.com/gamerzzsmokers69" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="gamerzzsmokers69" height="30" width="30" /></a>
+<a href="https://instagram.com/priyanshnama" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="priyanshnama" height="30" width="30" /></a>
+</p>
