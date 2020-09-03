@@ -25,7 +25,7 @@
 <a href="https://dev.to/priyanshnama" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="priyanshnama" height="30" width="30" /></a>
 <a href="https://twitter.com/priyanshnama" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="priyanshnama" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/priyanshnama" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="priyanshnama" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/priyansh-nama" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="priyansh-nama" height="30" width="30" /></a>
-<a href="https://fb.com/gamerzzsmokers69" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="gamerzzsmokers69" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/12648112/priyansh-nama" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="priyansh-nama" height="30" width="30" /></a>
+<a href="https://facebook.com/gamerzzsmokers69" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="gamerzzsmokers69" height="30" width="30" /></a>
 <a href="https://instagram.com/priyanshnama" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="priyanshnama" height="30" width="30" /></a>
 </p>
