@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Java, Python, Kotlin, Android**
 
-- 📫 How to reach me **priyanshnama@gmail.com**
+- 📫 How to reach me [Click Here](https://linktr.ee/priyanshnama)
 
 - ⚡ Fun fact **The root is at the top of the tree.**
 
