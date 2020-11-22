@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyansh Nama</h1>
 <h3 align="center">Full Stack Developer and Python Web-Scrapper</h3>
-
+<p align="center"><img src="https://github-readme-quotes.herokuapp.com/quote?&theme=gotham" alt="my-personal-project"/></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshnama" alt="priyanshnama" /> </p>
 
 - 🔭 I’m currently working on [Technical-Fest](https://github.com/IIITDMJ-OPEN-SOURCE/Technical-Fest)
